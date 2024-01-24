@@ -34,4 +34,4 @@ I don't know what to put for the rest of this, so I'll just use the generic temp
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bonganibg&show_icons=true&locale=en&layout=compact" alt="bonganibg" /></p>
-[![bonganibg](https://camo.githubusercontent.com/f5c6fe7dff1a10880610bdb1d4e71f920f92706f411e62cb62f73f337ebd4217/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d626f6e67616e696267266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)](https://camo.githubusercontent.com/f5c6fe7dff1a10880610bdb1d4e71f920f92706f411e62cb62f73f337ebd4217/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d626f6e67616e696267266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bonganibg&label=Profile%20views&color=0e75b6&style=flat" alt="bonganibg" /> </p>
